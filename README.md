@@ -1,4 +1,4 @@
 # Guess-Game
-My first python code
+My first python code.
 A simple guess game in four tries.
-The correct number is 7
+The correct number is 7.
